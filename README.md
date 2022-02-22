@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @satvik-varshney-07.
-- 👀 I’m interested in c++ or python.
+- 👀 I’m interested in C++ and Python.
 - 🌱 I’m currently learning C++ and pursuing my Btech from VIT-BHOPAL.
-- 💞️ I’m looking to collaborate on projects based on c++ or python. 
+- 💞️ I’m looking to collaborate on projects based on C++ or python. 
 - 📫 How to reach me : mail me at satvikvarshney07@gmail.com
 
 <!---
